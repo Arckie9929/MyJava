@@ -7,7 +7,7 @@ package ch01_variable_operator;
 public class YourPrint {
     static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("정 인");
+        System.out.println("정인");
         System.out.println();
         System.out.println("정");
         System.out.println();
